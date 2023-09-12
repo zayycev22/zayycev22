@@ -7,9 +7,11 @@
 
 Я разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался в 2016 году со Школы программистов. После школы я поступил в РТУ Мирэа, где учусь по сей день. Участвую в различных хакатонах и CTF соревнованиях. Дважды был победителем на хакатоне "Цфировой прорыв".
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 - :telescope: Был студентом Школы 21 от Сбера.
 
